@@ -11,6 +11,7 @@ var userTwo = new User('yoshi@mariokorp.com', 'Yoshi');
 console.log(userOne);
 console.log(userTwo);
 
+
 // the 'new' keyword
 // - creates a new empty object {}
 // - sets the value of 'this' to be the new empty object
