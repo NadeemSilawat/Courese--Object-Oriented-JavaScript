@@ -19,5 +19,6 @@ var userTwo = new User('yoshi@mariokorp.com', 'Yoshi');
 userOne.login();
 userTwo.logout();
 
+
 console.log(userOne);
 console.log(userTwo);
